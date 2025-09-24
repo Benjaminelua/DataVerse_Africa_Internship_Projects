@@ -49,7 +49,7 @@ This real-world case illustrates the critical need for stronger drug-monitoring 
 
 📷 *Example seizure by NAFDAC (Channels TV, 2025)*  
 
-![NAFDAC Seizure](https://www.channelstv.com/wp-content/uploads/2025/09/NAFDAC-Fake-Drug-Seizure.jpg)  
+![NAFDAC Seizure](NAFDAC-fake-drugs.jpg)  
 
 ---
 
